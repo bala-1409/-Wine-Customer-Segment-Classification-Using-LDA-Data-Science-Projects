@@ -1,4 +1,4 @@
-# -Wine-Customer-Segment-Classification-Using-LDA-Data-Science-Projects
+# Wine-Customer-Segment-Classification-Using-LDA-Data-Science-Projects
 This project is to classify the Customers who prefers three types of wine and by using Linear Discriminant Analysis(LDA) after reducing the dimensions we can able to classify the Customers into 3 segments based on their preference.
 ## Problem Statement:
 The wine industry is a complex and competitive market. There are thousands of different wines available, and it can be difficult for customer to know which wines they will enjoy. One way to help customer make better wine choices is to develop a wine classification system that can be used to categorize wines based on their flavor profiles.
